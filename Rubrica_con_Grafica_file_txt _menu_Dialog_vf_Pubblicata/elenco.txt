@@ -1,0 +1,7 @@
+Andrea Camilleri;0471222435;Via Degli Artisti, 5;09-06;92
+Angelo Angelo;ssss;sssss;sss;34
+Angelo Branduardi;3456234567;Piazza Verdi, 3;11-05;34
+Antonio Gramsci;0471456789;via Dei Gelsi, 5;04-24;67
+Franco Rosi;876544322;via Pier Paolo 5;21-11;45
+Paolo Rossi;23456712344;via Dei Tigli 3;21-12;34
+Lucio Battisti;23456712344;via Dei Gatti 10;21-12;34
